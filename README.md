@@ -54,3 +54,4 @@ Compila y ejecuta las clases ⁠ StackSorterAscendente ⁠ y ⁠ StackSort
 ## 💻 Créditos
 
 Desarrollado como parte de ejercicios de práctica de estructuras de datos.
+![alt text](image-1.png)
