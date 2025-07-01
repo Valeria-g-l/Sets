@@ -15,9 +15,9 @@
 •⁠  ⁠Profesor: Ing. Pablo Torres
 
 ---
-# Ejercicios de Sets
+# Ejercicios de Ordenamiento con Stack en Java
 
-Este proyecto contiene la implementación de algoritmos para ordenar con sets.
+Este proyecto contiene la implementación de algoritmos para *ordenar pilas (⁠ Stack<Integer> ⁠)* en Java usando solo estructuras tipo pila (⁠ Stack ⁠). Los ejercicios están diseñados para practicar estructuras de datos y algoritmos sin utilizar listas, arreglos u otras colecciones.
 
 ---
 
@@ -54,4 +54,3 @@ Compila y ejecuta las clases ⁠ StackSorterAscendente ⁠ y ⁠ StackSort
 ## 💻 Créditos
 
 Desarrollado como parte de ejercicios de práctica de estructuras de datos.
-![alt text](image.png)
